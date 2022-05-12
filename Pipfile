@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+ascend-io-sdk = "==0.2.36"
+ipykernel = "==6.12.1"
+pyspark = "==3.2.1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
